@@ -1,6 +1,9 @@
-# stake-fake-money
+# Stake.com Fake Money
 Larp your thousands of real $ on stake.com
-This is a chrome extension, figure out how to use it yourself
 
-# usage
-Install extension, goto stake, change currency to VND. (must have like 30 cents for any money to show)
+# Installation
+![image](https://download.nekos.zip/xtIQCVUDM5.png)
+![image](https://download.nekos.zip/VOVh9Kba5v.png)
+![image](https://download.nekos.zip/n3AMT9FDiy.png)
+![image](https://download.nekos.zip/zKrfAUlx3u.png)
+![image](https://download.nekos.zip/XEDd1ObzbQ.png)
